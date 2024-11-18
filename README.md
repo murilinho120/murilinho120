@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Meu nome é **Murilo Henrique Saraiva Pereira**
+Olá! Meu nome é **Murilo Henrique Saraiva Pereira**,
 tenho 18 anos e sou apaixonado por tecnologia. Atualmente, estou cursando **Tecnologia em Defesa Cibernética** na FIAP (2º semestre) e já concluí o **Técnico em Informática para Internet** na ETEC.  
 
 Tenho experiência em programação, segurança da informação e análise de dados, áreas nas quais quero construir minha carreira profissional, unindo automação, proteção cibernética e ferramentas de visualização como Power BI.
