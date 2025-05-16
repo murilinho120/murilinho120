@@ -1,47 +1,59 @@
-# Sobre Mim
+# 👨‍💻 Sobre Mim
 
-Olá! Meu nome é **Murilo Henrique Saraiva Pereira**,
-tenho 18 anos e sou apaixonado por tecnologia. Atualmente, estou cursando **Tecnologia em Defesa Cibernética** na FIAP (3º semestre) e já concluí o **Técnico em Informática para Internet** na ETEC.  
+Olá! Sou **Murilo Henrique Saraiva Pereira**, tenho 18 anos e sou apaixonado por tecnologia. Atualmente, curso **Tecnologia em Defesa Cibernética** na FIAP (3º semestre) e sou formado como **Técnico em Informática para Internet** pela ETEC.
 
-Tenho experiência em programação, segurança da informação e análise de dados, áreas nas quais quero construir minha carreira profissional, unindo automação, proteção cibernética e ferramentas de visualização como Power BI.
-
-## 🖥️ Habilidades Técnicas
-
-### Desenvolvimento de Software
-- **Linguagens de Programação:** Python, HTML, CSS, SQL.
-- **Banco de Dados:** Criação, gerenciamento e análise com SQL.
-- **Automação:** Desenvolvimento de scripts eficientes usando Python.
-
-### Segurança da Informação
-- **Especializações:** Red Team e Blue Team, gestão de vulnerabilidades, criptografia, análise de redes.
-- **Técnicas Avançadas:** SQL Injection, ferramentas de segurança cibernética.
-- **Sistemas Operacionais:** Experiência avançada em Linux e Windows.
-- **Ferramentas de Segurança:** Burp Suite, Python para segurança.
-
-### Dados e Visualização
-- **Power BI:** Criação de dashboards para visualização de dados.
-- **Pacote Office:** Word, PowerPoint, Excel, Google Drive.
-- **Design:** Figma para prototipação e design de interfaces.
-
-## 🎯 Objetivo Profissional
-
-Busco oportunidades para atuar em **desenvolvimento de software**, **segurança da informação** e **análise de dados**. Meu objetivo é unir conhecimentos em automação, defesa cibernética 
-e visualização de dados para criar soluções inovadoras que agreguem valor às empresas.
-
-## 📂 Projetos em Destaque
-
-- **[Automação com Python](https://github.com/murilinho120):** Scripts para simplificar tarefas e otimizar fluxos de trabalho.
-- **[Segurança da Informação](https://github.com/murilinho120):** Projetos focados em detecção de vulnerabilidades e defesa de sistemas.
-
-> **[Portfólio](#)** _Adicione o link do seu portfólio aqui quando disponível._
-
-## 🌐 Contato
-
-- **LinkedIn:** [Murilo Henrique Saraiva Pereira](https://www.linkedin.com/in/murilo-henrique-saraiva-pereira-0819a728b/)  
-- **GitHub:** [github.com/murilinho120](https://github.com/murilinho120)  
-- **E-mail:** murilohenrisaraiva@gmail.com  
-- **Telefone:** +55 (11) 98443-0462  
+Tenho experiência prática em **desenvolvimento de software**, **segurança da informação** e **automação de processos**, áreas nas quais venho aplicando meus conhecimentos em projetos reais com foco em eficiência, proteção e inovação.
 
 ---
 
-Se precisar de mais informações, não hesite em entrar em contato!
+## 🛠️ Habilidades Técnicas
+
+### 💻 Desenvolvimento e Automação
+- **Linguagens:** Python (foco principal), HTML, CSS, SQL, Bash
+- **APIs:** Imgur, Mercado Livre, VirusTotal, AbuseIPDB, OpenAI, Slack
+- **Frameworks e Ferramentas:** Tkinter, Requests, Git/GitHub
+- **Automação:** Scripts para tarefas repetitivas e integração de sistemas
+- **Banco de Dados:** SQL Server
+
+### 🔐 Segurança da Informação
+- **SIEM:** OpenSearch, Grafana, Zabbix
+- **Especializações:** Red Team / Blue Team, resposta a incidentes, análise de vulnerabilidades
+- **Ferramentas:** rsyslog, Burp Suite, nmap, Metasploit, Wireshark
+- **Sistemas:** Linux (Ubuntu, Kali), Windows, BSD (migração em andamento)
+
+### 📊 Análise e Visualização
+- **Dashboards e Logs:** Power BI, OpenSearch, Grafana
+- **Design e Prototipação:** Figma
+- **Produtividade:** Google Workspace, Microsoft Office
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔧 Automação de Anúncios – Mercado Livre
+> Interface gráfica com Python que publica automaticamente produtos com imagens via API do Imgur. Reduziu o tempo de anúncios em até 20%.
+
+### 🖼️ Editor de Imagens Automatizado
+> Script em Python com Tkinter que remove o fundo de imagens e aplica a logo da loja em lote. Aumento de 50% na produtividade da equipe.
+
+### 🔐 Projeto SIEM – Trustly (Desafio Real)
+> Implementação de monitoramento com OpenSearch, Grafana, rsyslog e integração com APIs como VirusTotal e Slack para alertas e análise em tempo real.
+
+### 🤖 Integração WhatsApp + ChatGPT
+> Sistema funcional com automação em Python que conecta WhatsApp Web ao ChatGPT, usado para testes de engenharia social e bots de atendimento.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Tecnólogo em Defesa Cibernética** – FIAP *(3º semestre)*  
+- **Técnico em Informática para Internet** – ETEC
+
+---
+
+## 🌐 Contato
+
+- **LinkedIn:** [Murilo Henrique Saraiva Pereira](https://www.linkedin.com/in/murilo-henrique-saraiva-pereira-0819a728b/)
+- **GitHub:** [github.com/murilinho120](https://github.com/murilinho120)
+- **E-mail:** murilohenrisaraiva@gmail.com
+- **Telefone:** +55 (11) 98443-0462
